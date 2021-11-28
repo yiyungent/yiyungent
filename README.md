@@ -25,5 +25,5 @@ Data Science, Machine Learning, Fullstack Web Developer.
 - [自定义域名邮箱 | 企业邮箱](https://moeci.com/posts/2021/11/diy-qiye-email/)
 - [2021-11 Spark 课程设计 | 笔记](https://moeci.com/posts/2021/11/2021-11-course-design-spark/)
 - [Jenkins | 笔记](https://moeci.com/posts/jenkins-notebook/)
-- [Gitea | 笔记](https://moeci.com/posts/gitea-notebook/)
+- [linux-swap](https://moeci.com/posts/linux-swap/)
 <!-- BLOG-POST-LIST:END -->
