@@ -21,9 +21,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Afdian.Sdk | 开发笔记](https://moeci.com/posts/2021/12/Afdian-Sdk-notebook/)
 - [GitHub Action 自动同步博文到 GitHub 主页](https://moeci.com/posts/2021/11/github-action-readme/)
 - [自定义域名邮箱 | 企业邮箱](https://moeci.com/posts/2021/11/diy-qiye-email/)
 - [2021-11 Spark 课程设计 | 笔记](https://moeci.com/posts/2021/11/2021-11-course-design-spark/)
 - [Jenkins | 笔记](https://moeci.com/posts/jenkins-notebook/)
-- [linux-swap](https://moeci.com/posts/linux-swap/)
 <!-- BLOG-POST-LIST:END -->
