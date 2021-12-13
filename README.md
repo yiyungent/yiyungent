@@ -5,7 +5,7 @@
 Data Science, Machine Learning, Fullstack Web Developer.
 
 - Read more about my [Blog](https://moeci.com/)
-- Talk with me by [Email](mailto:i@moeci.com) or [Telegram](https://t.me/yiyungent)
+- Talk with me by [Email: i@moeci.com](mailto:i@moeci.com)
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
