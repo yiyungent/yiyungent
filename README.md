@@ -21,9 +21,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 PowerShell 一键更新 Hexo 文章的 updated](https://moeci.com/posts/2022/01/powershell-hexo-updated/)
 - [MarkText 配置便携版](https://moeci.com/posts/2022/01/marktext-notebook/)
 - [act | 在本地运行 GitHub Actions](https://moeci.com/posts/2022/01/act-notebook/)
 - [drone | CI/CD | 基于容器技术的持续交付平台](https://moeci.com/posts/2022/01/drone/)
 - [Kubernetes 安装与部署](https://moeci.com/posts/2021/12/k8s-install/)
-- [代码片段 | C#](https://moeci.com/posts/2021/12/codes/)
 <!-- BLOG-POST-LIST:END -->
