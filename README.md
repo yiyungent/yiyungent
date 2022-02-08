@@ -21,9 +21,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/javascript-notebook/)
 - [Selenium | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E7%88%AC%E8%99%AB/selenium/)
 - [Oracle | 复习](https://moeci.com/posts/2022/01/oracle-review/)
 - [C# | 泛型委托的协变与逆变](https://moeci.com/posts/2022/01/CSharp-%E6%B3%9B%E5%9E%8B%E5%A7%94%E6%89%98%E7%9A%84%E5%8D%8F%E5%8F%98%E4%B8%8E%E9%80%86%E5%8F%98/)
 - [使用 PowerShell 一键更新 Hexo 文章的 updated](https://moeci.com/posts/2022/01/powershell-hexo-updated/)
-- [MarkText 配置便携版](https://moeci.com/posts/2022/01/marktext-notebook/)
 <!-- BLOG-POST-LIST:END -->
