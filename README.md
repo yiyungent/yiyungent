@@ -21,8 +21,8 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [npm修改全局包位置](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/npm%E4%BF%AE%E6%94%B9%E5%85%A8%E5%B1%80%E5%8C%85%E4%BD%8D%E7%BD%AE/)
 - [git 规范化](https://moeci.com/posts/%E5%88%86%E7%B1%BB-linux/git%E8%A7%84%E8%8C%83%E5%8C%96/)
+- [npm修改全局包位置](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/npm%E4%BF%AE%E6%94%B9%E5%85%A8%E5%B1%80%E5%8C%85%E4%BD%8D%E7%BD%AE/)
 - [PowerShell 美化配置 | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-linux/powershell-config-notebook/)
 - [Windows 重装 | 笔记](https://moeci.com/posts/2022/02/windows-reinstall-notebook/)
 - [JavaScript | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/javascript-notebook/)
