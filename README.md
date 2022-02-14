@@ -21,9 +21,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [npm修改全局包位置](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/npm%E4%BF%AE%E6%94%B9%E5%85%A8%E5%B1%80%E5%8C%85%E4%BD%8D%E7%BD%AE/)
+- [git 规范化](https://moeci.com/posts/%E5%88%86%E7%B1%BB-linux/git%E8%A7%84%E8%8C%83%E5%8C%96/)
+- [PowerShell 美化配置 | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-linux/powershell-config-notebook/)
+- [Windows 重装 | 笔记](https://moeci.com/posts/2022/02/windows-reinstall-notebook/)
 - [JavaScript | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/javascript-notebook/)
-- [Selenium | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E7%88%AC%E8%99%AB/selenium/)
-- [Oracle | 复习](https://moeci.com/posts/2022/01/oracle-review/)
-- [C# | 泛型委托的协变与逆变](https://moeci.com/posts/2022/01/CSharp-%E6%B3%9B%E5%9E%8B%E5%A7%94%E6%89%98%E7%9A%84%E5%8D%8F%E5%8F%98%E4%B8%8E%E9%80%86%E5%8F%98/)
-- [使用 PowerShell 一键更新 Hexo 文章的 updated](https://moeci.com/posts/2022/01/powershell-hexo-updated/)
 <!-- BLOG-POST-LIST:END -->
