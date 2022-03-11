@@ -23,7 +23,7 @@ Data Science, Machine Learning, Fullstack Web Developer.
 <!-- BLOG-POST-LIST:START -->
 - [MobaXterm 找回 Session 密码](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E6%9D%82%E8%AE%B0/mobaxterm-find-password/)
 - [免费静态托管 | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/%E5%85%8D%E8%B4%B9%E9%9D%99%E6%80%81%E6%89%98%E7%AE%A1-notebook/)
-- [git 规范化](https://moeci.com/posts/%E5%88%86%E7%B1%BB-linux/git%E8%A7%84%E8%8C%83%E5%8C%96/)
+- [git 规范化](https://moeci.com/posts/%E5%88%86%E7%B1%BB-github/git%E8%A7%84%E8%8C%83%E5%8C%96/)
 - [npm修改全局包位置](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/npm%E4%BF%AE%E6%94%B9%E5%85%A8%E5%B1%80%E5%8C%85%E4%BD%8D%E7%BD%AE/)
 - [PowerShell 美化配置 | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-linux/powershell-config-notebook/)
 <!-- BLOG-POST-LIST:END -->
