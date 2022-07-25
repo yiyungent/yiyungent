@@ -21,9 +21,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft 365 E5 自动续订 | Docker 自建](https://moeci.com/posts/%E5%88%86%E7%B1%BB-docker/docker-ms-e5/)
 - [Docker 搭建 duplicati 自动备份文件](https://moeci.com/posts/%E5%88%86%E7%B1%BB-docker/docker-duplicati/)
 - [Visual Studio Code 配置 LaTex | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E6%9D%82%E8%AE%B0/vscode-latex-notebook/)
 - [腾讯云+社区 3月作者礼品 开箱](https://moeci.com/posts/2022/04/%E8%85%BE%E8%AE%AF%E4%BA%91%E7%A4%BE%E5%8C%BA3%E6%9C%88%E4%BD%9C%E8%80%85%E7%A4%BC%E5%93%81-note/)
 - [Docker 搭建 Nextcloud](https://moeci.com/posts/%E5%88%86%E7%B1%BB-docker/docker-nextcloud/)
-- [PyTorch 安装](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/pytorch-install/)
 <!-- BLOG-POST-LIST:END -->
