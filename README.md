@@ -21,9 +21,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tableau可视化-B-厦门国际银行](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E5%8F%AF%E8%A7%86%E5%8C%96/Tableau%E5%8F%AF%E8%A7%86%E5%8C%96-B-%E5%8E%A6%E9%97%A8%E5%9B%BD%E9%99%85%E9%93%B6%E8%A1%8C/)
 - [Tableau可视化-A-世界幸福指数](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E5%8F%AF%E8%A7%86%E5%8C%96/Tableau%E5%8F%AF%E8%A7%86%E5%8C%96-A-%E4%B8%96%E7%95%8C%E5%B9%B8%E7%A6%8F%E6%8C%87%E6%95%B0/)
 - [Microsoft 365 E5 自动续订 | Docker 自建](https://moeci.com/posts/%E5%88%86%E7%B1%BB-docker/docker-ms-e5/)
 - [Docker 搭建 duplicati 自动备份文件](https://moeci.com/posts/%E5%88%86%E7%B1%BB-docker/docker-duplicati/)
 - [Visual Studio Code 配置 LaTex | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E6%9D%82%E8%AE%B0/vscode-latex-notebook/)
-- [腾讯云+社区 3月作者礼品 开箱](https://moeci.com/posts/2022/04/%E8%85%BE%E8%AE%AF%E4%BA%91%E7%A4%BE%E5%8C%BA3%E6%9C%88%E4%BD%9C%E8%80%85%E7%A4%BC%E5%93%81-note/)
 <!-- BLOG-POST-LIST:END -->
