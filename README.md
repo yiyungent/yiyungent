@@ -21,9 +21,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/typescript-notebook/)
 - [软件测试 | 复习](https://moeci.com/posts/2023/01/03/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95-review/)
 - [30天学会 React | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/30-days-of-react-notebook/)
 - [SQLServer 安装](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E6%95%B0%E6%8D%AE%E5%BA%93/sqlserver-install/)
 - [Tableau可视化-B-厦门国际银行](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E5%8F%AF%E8%A7%86%E5%8C%96/Tableau%E5%8F%AF%E8%A7%86%E5%8C%96-B-%E5%8E%A6%E9%97%A8%E5%9B%BD%E9%99%85%E9%93%B6%E8%A1%8C/)
-- [Tableau可视化-A-世界幸福指数](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E5%8F%AF%E8%A7%86%E5%8C%96/Tableau%E5%8F%AF%E8%A7%86%E5%8C%96-A-%E4%B8%96%E7%95%8C%E5%B9%B8%E7%A6%8F%E6%8C%87%E6%95%B0/)
 <!-- BLOG-POST-LIST:END -->
