@@ -22,9 +22,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [README.md 徽章 | GitHub徽章, Gitee徽章, 爱发电徽章等](https://moeci.com/posts/2021/12/readme-badge/)
-- [Node.js | 笔记](https://moeci.com/posts/2021/12/nodejs/)
-- [Afdian.Sdk | 开发笔记](https://moeci.com/posts/2021/12/Afdian-Sdk-notebook/)
-- [GitHub Action 自动同步博文到 GitHub 主页](https://moeci.com/posts/2021/11/github-action-readme/)
-- [自定义域名邮箱 | 企业邮箱](https://moeci.com/posts/2021/11/diy-qiye-email/)
+- [使用 Python 开发 CLI 工具并打包发布到 PyPI](https://moeci.com/posts/%E5%88%86%E7%B1%BB-python/python-cli-publish-pypi/)
+- [TypeScript | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/typescript-notebook/)
+- [软件测试 | 复习](https://moeci.com/posts/2023/01/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95-review/)
+- [30天学会 React | 笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-Web/30-days-of-react-notebook/)
+- [SQLServer 安装](https://moeci.com/posts/%E5%88%86%E7%B1%BB-%E6%95%B0%E6%8D%AE%E5%BA%93/sqlserver-install/)
 <!-- BLOG-POST-LIST:END -->
