@@ -14,9 +14,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 
 <!-- 图标与颜色: https://simpleicons.org/ -->
 
-![HTML](https://img.shields.io/badge/-HTML-ff6f00?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)
+[![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)](https://html.spec.whatwg.org)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)](https://www.ecma-international.org)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff&color=8DD6F9)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -25,8 +25,8 @@ Data Science, Machine Learning, Fullstack Web Developer.
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff)](https://www.java.com/)
+[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)](https://www.r-project.org/)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-e74a2b?style=flat-square&logo=PyTorch&logoColor=fff)](https://pytorch.org/)
