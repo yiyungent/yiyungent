@@ -38,9 +38,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [统计学-P值-note](https://moeci.com/posts/2023/04/%E7%BB%9F%E8%AE%A1%E5%AD%A6-P%E5%80%BC-note/)
+- [LeetCode | 子集](https://moeci.com/posts/2023/04/leetcode-2023-04-04-note/)
 - [LeetCode | 只出现一次的数字](https://moeci.com/posts/2023/04/leetcode-2023-04-03-note/)
 - [LeetCode | 合并两个有序数组](https://moeci.com/posts/2023/03/leetcode-2023-03-25-note/)
 - [Docker | Oracle Database](https://moeci.com/posts/2023/03/docker-oracle-notebook/)
-- [LeetCode | 搜索插入位置](https://moeci.com/posts/2023/03/leetcode-2023-03-09-note/)
-- [LeetCode | 爬楼梯](https://moeci.com/posts/2023/03/leetcode-2023-03-07-note/)
 <!-- BLOG-POST-LIST:END -->
