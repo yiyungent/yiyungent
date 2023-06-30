@@ -41,9 +41,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 Vue 3 与 TypeScript 构建 Web 应用: Todo](https://moeci.com/posts/2023/06/vue3-using-typescript-notebook/)
+- [使用 TypeScript 编写 React.js 应用 | 笔记](https://moeci.com/posts/2023/06/react-using-typescript-notebook/)
+- [freeCodeCamp | Front End Development Libraries | 笔记](https://moeci.com/posts/2023/06/freecodecamp-front-end-development-libraries-notebook/)
 - [JavaScript 包管理器](https://moeci.com/posts/2023/05/javascript-package-manager-note/)
 - [ESP32 微控制器 | 笔记](https://moeci.com/posts/2023/05/esp32-notebook/)
-- [Web 前端 | 面试题 | 笔记](https://moeci.com/posts/2023/05/web-interview-note/)
-- [使用 B VPS 中转 A VPS 流量](https://moeci.com/posts/2023/04/%E4%BD%BF%E7%94%A8-b-vps-%E4%B8%AD%E8%BD%AC-a-vps-%E6%B5%81%E9%87%8F-note/)
-- [LeetCode | 数据结构与算法 | 4月 合集](https://moeci.com/posts/2023/04/leetcode-2023-04-note/)
 <!-- BLOG-POST-LIST:END -->
