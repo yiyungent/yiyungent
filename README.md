@@ -20,6 +20,7 @@ Data Science, Machine Learning, Fullstack Web Developer.
 [![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=ffffff)](https://github.com/facebook/react)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://github.com/vuejs/core)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=ffffff&color=8DD6F9)](https://github.com/webpack/webpack)
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff&color=646CFF)](https://vitejs.dev)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/microsoft/TypeScript)
 [![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 <!-- [![Cordova](https://img.shields.io/badge/-Cordova-000?style=flat-square&logo=ApacheCordova&logoColor=E8E8E8)](https://cordova.apache.org/) -->
