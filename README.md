@@ -42,9 +42,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [《深入架构原理与实践》| 读书笔记](https://moeci.com/posts/2023/09/%E6%B7%B1%E5%85%A5%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5-note/)
 - [Vue.js 中 nextTick | 笔记](https://moeci.com/posts/2023/09/vue-nexttick-note/)
 - [7 种常用的 TypeScript 类型](https://moeci.com/posts/2023/09/typescript-7-type-note/)
 - [CDA | Level 1 | 笔记](https://moeci.com/posts/2023/09/cda-level-1-notebook/)
 - [C# 12 新 &quot;拦截器&quot;](https://moeci.com/posts/2023/08/csharp-12-%E6%8B%A6%E6%88%AA%E5%99%A8-note/)
-- [CSS | 视差滚动 | 笔记](https://moeci.com/posts/2023/07/%E8%A7%86%E5%B7%AE%E6%BB%9A%E5%8A%A8-notebook/)
 <!-- BLOG-POST-LIST:END -->
