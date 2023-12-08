@@ -5,7 +5,7 @@
 <!-- End Matomo -->
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=yiyungent&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true&count_private=true" alt="yiyungent's github stats"/> -->
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yiyungent&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true&count_private=true" alt="yiyungent's github stats"/>
+<img align="right" src="https://github-readme-stats.120365.xyz/api?username=yiyungent&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true&count_private=true" alt="yiyungent's github stats"/>
 
 Data Science, Machine Learning, Fullstack Web Developer.
 
