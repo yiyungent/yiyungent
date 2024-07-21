@@ -42,9 +42,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RFM 分析 - 确定用户的核心价值 等杂记](https://moeci.com/posts/2024/07/rfm-note/)
 - [CSS 双飞翼布局](https://moeci.com/posts/2024/01/css-%E5%8F%8C%E9%A3%9E%E7%BF%BC-%E5%B8%83%E5%B1%80-note/)
 - [Web 前端 | 反爬虫 | 字体反爬](https://moeci.com/posts/2023/10/web%E5%89%8D%E7%AB%AF-%E5%8F%8D%E7%88%AC%E8%99%AB-%E5%AD%97%E4%BD%93%E5%8F%8D%E7%88%AC-note/)
 - [《深入架构原理与实践》| 读书笔记](https://moeci.com/posts/%E5%88%86%E7%B1%BB-todo/%E6%B7%B1%E5%85%A5%E6%9E%B6%E6%9E%84%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E8%B7%B5-note/)
 - [Vue.js 中 nextTick | 笔记](https://moeci.com/posts/2023/09/vue-nexttick-note/)
-- [7 种常用的 TypeScript 类型](https://moeci.com/posts/2023/09/typescript-7-type-note/)
 <!-- BLOG-POST-LIST:END -->
