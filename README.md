@@ -42,9 +42,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [一张一亿条数据的表迁移到另一个数据库中 | 小记](https://moeci.com/posts/2025/08/migration-of-table-with-one-hundred-million-rows-to-another-database-note/)
 - [Kafka 消息积压 如何解决 ? | 小记](https://moeci.com/posts/2025/08/kafka-message-backlog-note/)
 - [Redis 如何保证缓存与数据库的数据一致性 ? | 小记](https://moeci.com/posts/2025/08/redis-db-sync-note/)
 - [RAG 分片策略优化 | 小记](https://moeci.com/posts/2025/08/rag-%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%86%E7%89%87-note/)
 - [不停机数据迁移 | 小记](https://moeci.com/posts/2025/08/%E4%B8%8D%E5%81%9C%E6%9C%BA%E6%95%B0%E6%8D%AE%E8%BF%81%E7%A7%BB-note/)
-- [使用 &quot;无限&quot; ipv6 作为代理池](https://moeci.com/posts/2025/07/%E6%97%A0%E9%99%90ipv6%E4%BB%A3%E7%90%86%E6%B1%A0-note/)
 <!-- BLOG-POST-LIST:END -->
