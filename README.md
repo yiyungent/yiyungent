@@ -42,9 +42,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [分布式 | 如何解决重复消费 | 小记](https://moeci.com/posts/2025/08/%E5%88%86%E5%B8%83%E5%BC%8F-%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E9%87%8D%E5%A4%8D%E6%B6%88%E8%B4%B9-note/)
 - [每天 500w 数据 - 如何存如何查 ? | 小记](https://moeci.com/posts/2025/08/%E6%AF%8F%E5%A4%A9500w%E6%95%B0%E6%8D%AE-%E5%A6%82%E4%BD%95%E5%AD%98%E5%A6%82%E4%BD%95%E6%9F%A5-note/)
 - [一张一亿条数据的表迁移到另一个数据库中 | 小记](https://moeci.com/posts/2025/08/migration-of-table-with-one-hundred-million-rows-to-another-database-note/)
 - [Kafka 消息积压 如何解决 ? | 小记](https://moeci.com/posts/2025/08/kafka-message-backlog-note/)
 - [Redis 如何保证缓存与数据库的数据一致性 ? | 小记](https://moeci.com/posts/2025/08/redis-db-sync-note/)
-- [RAG 分片策略优化 | 小记](https://moeci.com/posts/2025/08/rag-%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%86%E7%89%87-note/)
 <!-- BLOG-POST-LIST:END -->
