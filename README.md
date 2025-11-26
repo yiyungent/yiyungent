@@ -42,9 +42,9 @@ Data Science, Machine Learning, Fullstack Web Developer.
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [并发场景下的竞态条件 | 小记](https://moeci.com/posts/2025/11/%E5%B9%B6%E5%8F%91%E5%9C%BA%E6%99%AF%E4%B8%8B%E7%9A%84%E7%AB%9E%E6%80%81%E6%9D%A1%E4%BB%B6-race-condition-note/)
 - [Elasticsearch 海量数据查询原理 | 小记](https://moeci.com/posts/2025/10/elasticsearch%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%E6%9F%A5%E8%AF%A2%E5%8E%9F%E7%90%86-note/)
 - [如何对加密后的数据进行模糊查询？](https://moeci.com/posts/2025/10/%E5%A6%82%E4%BD%95%E5%AF%B9%E5%8A%A0%E5%AF%86%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E8%BF%9B%E8%A1%8C%E6%A8%A1%E7%B3%8A%E6%9F%A5%E8%AF%A2-note/)
 - [慢查询 SQL 优化 | 小记](https://moeci.com/posts/2025/08/%E6%85%A2%E6%9F%A5%E8%AF%A2-sql-%E4%BC%98%E5%8C%96-note/)
 - [如何安全高效地扫描 Redis 中所有数据 | 小记](https://moeci.com/posts/2025/08/%E5%AE%89%E5%85%A8%E9%AB%98%E6%95%88%E5%9C%B0%E6%89%AB%E6%8F%8F-redis-%E4%B8%AD%E6%89%80%E6%9C%89%E6%95%B0%E6%8D%AE-note/)
-- [分布式 | 如何解决重复消费 | 小记](https://moeci.com/posts/2025/08/%E5%88%86%E5%B8%83%E5%BC%8F-%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3%E9%87%8D%E5%A4%8D%E6%B6%88%E8%B4%B9-note/)
 <!-- BLOG-POST-LIST:END -->
